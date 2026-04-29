@@ -196,7 +196,7 @@ if (email.includes("@") && email.includes(".")) {
   console.log("Inválido");
 }
 
-/*--------------- Ej14 -------------------------- */
+/*--------------- Ej15 -------------------------- */
 let opcion = 2;
 
 switch (opcion) {
