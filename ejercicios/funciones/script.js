@@ -1,5 +1,4 @@
 // Definición de funciones acá
-// Definición de funciones acá
 
 /*--------------Ej1-----------------------------*/
 function saludar(nombre) {
